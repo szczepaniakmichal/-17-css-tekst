@@ -11,10 +11,14 @@ body{
 }
 h1{
     font-size: 48px;
+    color: blue;
 }
 p{
     font-size: 24px;
 }
 .textCenter{
     text-align: center;
+}
+span{
+    color: red;
 }
